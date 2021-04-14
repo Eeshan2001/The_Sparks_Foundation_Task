@@ -1,7 +1,7 @@
-The_Sparks_Foundation_Task
-Data Science Internship task for April2021 month
+# The_Sparks_Foundation_Task
+# Data Science Internship task for April2021 month
 
-SPARKS-FOUNDATION-PROJECTS
+# SPARKS-FOUNDATION-PROJECTS
 
 
 TASK 1 : PREDICTION USING SUPERVISED MACHINE LEARNING
